@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backend">Backend</string>
+    <string name="launch_text">Launch</string>
+    <string name="backend_name">Name</string>
+    <string name="resource_label">Resource</string>
+    <string name="version_label">Version</string>
+    <string name="find_cloudlet_title">Find Cloudlet</string>
+    <string name="cloud_url">Cloud URL</string>
+    <string name="find_cloudlets_menu">Find Cloudlets</string>
+    <string name="title_activity_sinfonia">Sinfonia</string>
+</resources>
